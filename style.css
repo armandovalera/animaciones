@@ -1,5 +1,5 @@
 body{
-  background-color: navy;
+  background-color: black;
 }
 
 .contenedor{
@@ -51,3 +51,4 @@ img{
     50% {transform: rotate(360deg); }    
 
 }
+
